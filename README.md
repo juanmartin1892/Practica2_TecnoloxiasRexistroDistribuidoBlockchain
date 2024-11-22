@@ -118,7 +118,7 @@ Cada certificado de auditoría incluye:
     
     </aside>
     
-    ![Captura desde 2024-11-22 16-58-50.png](./imagenes/Captura_desde_2024-11-22_16-58-50.png)
+    ![Captura desde 2024-11-22 16-58-50.png](./imagenes/Captura1.png)
     
 5. **Front-end (Aplicación Web)**:
     1. Desarrollada para que los usuarios soliciten y consulten auditorías.
@@ -130,11 +130,11 @@ Cada certificado de auditoría incluye:
     
     </aside>
     
-    ![Captura desde 2024-11-22 16-58-07.png](./imagenes/Captura_desde_2024-11-22_16-58-07.png)
+    ![Captura desde 2024-11-22 16-58-07.png](./imagenes/Captura2.png)
     
-    ![Captura desde 2024-11-22 16-58-11.png](./imagenes/Captura_desde_2024-11-22_16-58-11.png)
+    ![Captura desde 2024-11-22 16-58-11.png](./imagenes/Captura3.png)
     
-    ![Captura desde 2024-11-22 16-58-41.png](./imagenes/Captura_desde_2024-11-22_16-58-41.png)
+    ![Captura desde 2024-11-22 16-58-41.png](./imagenes/Captura4.png)
     
 6. Docker y Docker-compose
     1. Se utiliza Docker y Docker-compose para facilitar el despliegue y la gestión de todos los componentes del sistema, incluyendo el oráculo, MongoDB e IPFS.
