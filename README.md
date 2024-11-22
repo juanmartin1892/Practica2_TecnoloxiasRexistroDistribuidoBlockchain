@@ -134,7 +134,7 @@ Cada certificado de auditoría incluye:
     
     ![Captura desde 2024-11-22 16-58-11.png](./imagenes/Captura3.png)
     
-    ![Captura desde 2024-11-22 16-58-41.png](./imagenes/Captura4.png)
+    ![Captura desde 2024-11-22 16-58-41.png](./imagenes/Captura5.png)
     
 6. Docker y Docker-compose
     1. Se utiliza Docker y Docker-compose para facilitar el despliegue y la gestión de todos los componentes del sistema, incluyendo el oráculo, MongoDB e IPFS.
