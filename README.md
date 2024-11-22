@@ -164,3 +164,6 @@ docker compose up
 ```
 
 Esto iniciará todos los servicios necesarios (oráculo, MongoDB, IPFS y frontend) en sus respectivos contenedores.
+
+
+Tiempo dedicado aproximado: 20 horas.
