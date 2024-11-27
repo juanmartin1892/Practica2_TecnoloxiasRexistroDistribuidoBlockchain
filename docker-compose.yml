@@ -63,7 +63,13 @@ services:
     networks:
       - app_network
     command: daemon 
+    volumes:
+      - ipfs_data:/data/ipfs
 
 networks:
   app_network:
     driver: bridge
+
+volumes:
+  ipfs_data:
+    driver: local

@@ -332,7 +332,7 @@ const abi = [
 ]
 
 // Ethereum private key
-const privateKey = '3edb964dbd37b36407a57986cf4ffe3b79f371370dc3b2fde238e068d6ffafc2'
+const privateKey = process.env.PRIVATE_KEY
 
 // Ethereum provider, we are using Alchemy here as a provider
 const provider = new ethers.providers.JsonRpcProvider('https://eth-sepolia.g.alchemy.com/v2/-s-yvgbqdgkLE1-UYFtbwg_xsTr47tJy');
